@@ -18,7 +18,7 @@
 - **Node.js**: Server environment to run the backend application.
 - **Socket.IO**: Library to enable real-time, bidirectional communication between clients and servers.
 - **JWT (JSON Web Tokens)**: For secure user authentication.
-- **Chakra UI **: For styling the user interface with a modern, responsive design.
+- **Chakra UI**: For styling the user interface with a modern, responsive design.
 
 ## 🚀 Getting Started
 
